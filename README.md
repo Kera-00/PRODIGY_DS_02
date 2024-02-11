@@ -13,16 +13,16 @@ Task Requirement:
 2. Data Overview
 3. Data Cleaning
 4. Exploratory Data Analysis (EDA)
-   Year has the highest release of movies
-   Movie Has The Highest Or Lowest Profit. Top 10 movies which earn highest profit
-   Movie with Highest And Lowest Budget
-   Movie with shorest and longest runtime
-   Year Has The Highest Profit Rate
-   Length movies most liked by the audiences according to their popularity
-        Average Runtime Of Movies From Year To Year
-        The Revenue And Popularity differs Budget And Runtime
-        Popularity Depends On Profit
-        Month Released Highest Number Of Movies In All Of The Years. Month Made The Highest Average Revenue
-        Genre Has The Highest Release Of Movies
-        What kinds of properties are associated with movies that have high revenues?
+   1. Year has the highest release of movies
+   2. Movie Has The Highest Or Lowest Profit. Top 10 movies which earn highest profit
+   3. Movie with Highest And Lowest Budget
+   4. Movie with shorest and longest runtime
+   5. Year Has The Highest Profit Rate
+   6. Length movies most liked by the audiences according to their popularity
+   7. Average Runtime Of Movies From Year To Year
+   8. The Revenue And Popularity differs Budget And Runtime
+   9. Popularity Depends On Profit
+   10. Month Released Highest Number Of Movies In All Of The Years. Month Made The Highest Average Revenue
+   11. Genre Has The Highest Release Of Movies
+   12. What kinds of properties are associated with movies that have high revenues?
         
