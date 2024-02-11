@@ -9,14 +9,14 @@ Dataset: The TMDb (The Movie Database) is a comprehensive movie database that pr
 link: https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies/data
 
 Task Requirement:
-    1. Importing the data
-    2. Data Overview
-    3. Data Cleaning
-    4. Exploratory Data Analysis (EDA)
-        Year has the highest release of movies
-        Movie Has The Highest Or Lowest Profit. Top 10 movies which earn highest profit
-        Movie with Highest And Lowest Budget
-        Movie with shorest and longest runtime
+1. Importing the data
+2. Data Overview
+3. Data Cleaning
+4. Exploratory Data Analysis (EDA)
+   Year has the highest release of movies
+   Movie Has The Highest Or Lowest Profit. Top 10 movies which earn highest profit
+   Movie with Highest And Lowest Budget
+   Movie with shorest and longest runtime
         Year Has The Highest Profit Rate
         Length movies most liked by the audiences according to their popularity
         Average Runtime Of Movies From Year To Year
