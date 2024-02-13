@@ -26,19 +26,17 @@ Task Requirement:
    11. Genre Has The Highest Release Of Movies
    12. What kinds of properties are associated with movies that have high revenues?
         
-      **Plot 1: Budget vs Revenue**
-         The revenues do increase slightly at higher levels but the number of movies with high budgets seem scarce. There is a good possibility that movies with higher investments result in better revenues.
+         **Plot 1: Budget vs Revenue**
+            The revenues do increase slightly at higher levels but the number of movies with high budgets seem scarce. There is a good possibility that movies with higher investments result in better revenues.
+            Correlation = 0.73
 
-         Correlation = 0.73
+         **Plot 2: Popularity vs Revenue**
+            The revenue seems to be increasing with popularity. We can say that if the popularity of movie is high then the revenue of the movie may be high.
+            Correlation = 0.25
 
-      **Plot 2: Popularity vs Revenue**
-         The revenue seems to be increasing with popularity. We can say that if the popularity of movie is high then the revenue of the movie may be high.
+         **Plot 3: Vote Average vs Revenue**
+            The correlation between revenue and vote average is 0.062. So vote average is not highly related to the revenue.
 
-         Correlation = 0.25
-
-      **Plot 3: Vote Average vs Revenue**
-         The correlation between revenue and vote average is 0.062. So vote average is not highly related to the revenue.
-
-      **Plot 4: Runtime vs Revenue**
-         The correlation between revenue and runtime is 0.043. So runtime is not highly related to the revenue.
+         **Plot 4: Runtime vs Revenue**
+            The correlation between revenue and runtime is 0.043. So runtime is not highly related to the revenue.
       
